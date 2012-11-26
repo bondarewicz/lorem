@@ -1,8 +1,8 @@
-# Lorem Ipsum Plugin
+# Lorem.io
 
 ## About
-Lorem.js is useless jquery plugin created to provide an easy way to replace any container 
-content with 'Lorem Ipsum'.
+Lorem.io is another useless jquery plugin created to provide an easy way to replace any container 
+content with beloved 'Lorem Ipsum'...
 
 ## Requirements
 - [jQuery](http://jquery.com/) (>= 1.7 recommended, but it'll probably work with older versions)
@@ -14,7 +14,7 @@ See [the website](http://lorem.io/).
 
 ## Development
 
-Fork, hack, possibly even add some tests, then send a pull request :)
+Feel Free :)
 
 
 ## License
