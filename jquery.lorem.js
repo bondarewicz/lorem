@@ -8,7 +8,8 @@
       this.elem = elem;
       this.$elem = $(elem);
       this.options = options;
-      this.metadata = this.$elem.data('lorem-options');
+      this.metadata = this.$elem.data('lorem');
+
     };
 
   Lorem.prototype = {
