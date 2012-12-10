@@ -8,8 +8,9 @@
       this.elem = elem;
       this.$elem = $(elem);
       this.options = options;
-      this.metadata = this.$elem.data('lorem');
+      this.metadata = this.$elem.data('lorem-options');
 
+      //console.log(this.metadata);
     };
 
   Lorem.prototype = {
