@@ -8,11 +8,11 @@ content with beloved 'Lorem Ipsum'...
 
 ## Requirements
 - [jQuery](http://jquery.com/) (>= 1.7 recommended, but it'll probably work with older versions)
-- [lorem.js](http://lorem.io/) (>= 1.0)
+- [lorem.js](http://bondarewicz.github.io/lorem/) (>= 1.0)
 
 ## Usage
 
-See [the website](http://lorem.io/).
+See [the website](http://bondarewicz.github.io/lorem/).
 
 ## Development
 
