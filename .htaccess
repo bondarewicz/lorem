@@ -1,4 +1,0 @@
-RewriteEngine On
-
-RewriteCond %{HTTP_HOST} ^www.lorem.io [NC]
-RewriteRule ^(.*)$ http://lorem.io/$1 [L,R=301]
