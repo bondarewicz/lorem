@@ -1,3 +1,5 @@
+[![Code Climate](https://codeclimate.com/github/bondarewicz/lorem.png)](https://codeclimate.com/github/bondarewicz/lorem)
+
 # Lorem.io
 
 ## About
