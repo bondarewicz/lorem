@@ -12,7 +12,7 @@ content with beloved 'Lorem Ipsum'...
 
 ## Usage
 
-See [the website](http://lorem.io/).
+See [the website](http://bondarewicz.github.io/lorem/).
 
 ## Development
 
@@ -21,5 +21,3 @@ Feel Free :)
 
 ## License
 See [WTFPL](http://sam.zoy.org/wtfpl/COPYING)
-
-lukasz [at] bondarewicz [dot] com
